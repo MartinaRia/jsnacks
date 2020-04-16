@@ -1,0 +1,33 @@
+body{
+  font-family: helvetica;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input-peso{
+  padding: 10px;
+  margin: 10px 0px 10px 10px;
+}
+
+button{
+  padding: 11px;
+  margin: 10px;
+  background: white;
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  color: grey;
+  cursor: pointer;
+}
+
+.container{
+  padding: 11px;
+  margin: 10px;
+}
+
+p{
+  font-size: 15px;
+}
